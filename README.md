@@ -1,17 +1,20 @@
 # redirect-test
 
+## Old v. link
 http://v.snackv.com/SpcFAx3lh6
 
 
-
+## New web. links
 https://web.snackv.com/v/SpcFAx3lh6
 
 https://web.snackv.com/u/HrMLVGKkTe
 
 https://web.snackv.com/s/food
 
+## AppsFlyer link that redirect to download app
+http://app.appsflyer.com/1320646141
 
-
+## AppsFlyer OneLink thing that we are not using
 https://snackv.onelink.me/v/SpcFAx3lh6
 
 https://snackv.onelink.me/u/HrMLVGKkTe
