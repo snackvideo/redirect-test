@@ -16,13 +16,13 @@ https://web.snackv.com/s/food
 https://web.snackv.com/c/auto
 
 ### Staging
-https://snack-web-app-mustache.herokuapp.com/v/SpcFAx3lh6
+https://snack-web-app-mustache-staging.herokuapp.com/v/SpcFAx3lh6
 
-https://snack-web-app-mustache.herokuapp.com/u/HrMLVGKkTe
+https://snack-web-app-mustache-staging.herokuapp.com/u/HrMLVGKkTe
 
-https://snack-web-app-mustache.herokuapp.com/s/food
+https://snack-web-app-mustache-staging.herokuapp.com/s/food
 
-https://snack-web-app-mustache.herokuapp.com/c/auto
+https://snack-web-app-mustache-staging.herokuapp.com/c/auto
 
 ## AppsFlyer link that redirect to download app
 ### Production
