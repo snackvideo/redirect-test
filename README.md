@@ -19,4 +19,4 @@ Prod
 https://app.appsflyer.com/id1320646141?pid=snack_web_app&c=like&af_sub1=video&af_sub2=G0nE9Nokpf&af_sub3=30
 
 Staging
-https://app.appsflyer.com/id1320646142?pid=snack_web_app&c=like&af_sub1=video&af_sub2=G0nE9Nokpf&af_sub3=30
+https://app.appsflyer.com/id1320646142?pid=snack_web_app&c=like&af_sub1=video&af_sub2=G0nE9Nokpf&af_sub3=30&af_r=https://www.snackv.com
