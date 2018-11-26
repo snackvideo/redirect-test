@@ -17,6 +17,8 @@ https://web.snackv.com/c/auto
 
 https://web.snackv.com/c/fakecategory
 
+https://web.snackv.com/home
+
 ### Staging
 https://snack-web-app-mustache-staging.herokuapp.com/v/SpcFAx3lh6
 
