@@ -30,6 +30,8 @@ https://snack-web-app-mustache-staging.herokuapp.com/s/food
 
 https://snack-web-app-mustache-staging.herokuapp.com/c/auto
 
+https://snack-web-app-mustache-staging.herokuapp.com/r/OALTqzULwV
+
 ## AppsFlyer link that redirect to download app
 ### Production
 https://app.appsflyer.com/id1320646141?pid=snack_web_app&c=like&af_sub1=video&af_sub2=G0nE9Nokpf&af_sub3=30
