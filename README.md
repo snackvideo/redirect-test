@@ -13,7 +13,7 @@ https://web.snackv.com/u/HrMLVGKkTe
 
 https://web.snackv.com/s/food
 
-https://web.snackv.com/c/auto
+https://web.snackv.com/c/Auto
 
 https://web.snackv.com/c/fakecategory
 
