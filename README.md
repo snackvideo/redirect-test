@@ -42,8 +42,12 @@ https://snack-web-app-mustache-staging.herokuapp.com/t/nbve6OV0Ho
 ### Production
 https://app.appsflyer.com/id1320646141?pid=snack_web_app&c=like&af_sub1=video&af_sub2=G0nE9Nokpf&af_sub3=30
 
+https://app.appsflyer.com/id1320646141?pid=snack_web_app&c=training&af_sub1=nbve6OV0Ho
+
 ### Staging
 https://app.appsflyer.com/id1320646142?pid=snack_web_app&c=like&af_sub1=video&af_sub2=G0nE9Nokpf&af_sub3=30&af_r=https://www.snackv.com
+
+https://app.appsflyer.com/id1320646142?pid=snack_web_app&c=training&af_sub1=nbve6OV0Ho
 
 ## MailChimp
 https://snackv.us19.list-manage.com/track/click?u=107b154176e23d5e8682fe2d5&id=b7d007769e&e=70a31c4cd2
