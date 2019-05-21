@@ -1,5 +1,10 @@
 # redirect-test
 
+## Training
+https://snack-web-app-mustache-staging.herokuapp.com/t/nbve6OV0Ho
+
+https://web.snackv.com/t/nbve6OV0Ho
+
 ## Old v. link
 http://v.snackv.com/SpcFAx3lh6
 
@@ -23,7 +28,7 @@ https://web.snackv.com/r/myihBs1Cln
 
 https://web.snackv.com/r/OALTqzULwV
 
-https://web.snackv.com/t/nbve6OV0Ho
+
 
 ### Staging
 https://snack-web-app-mustache-staging.herokuapp.com/v/SpcFAx3lh6
@@ -36,7 +41,7 @@ https://snack-web-app-mustache-staging.herokuapp.com/c/auto
 
 https://snack-web-app-mustache-staging.herokuapp.com/r/OALTqzULwV
 
-https://snack-web-app-mustache-staging.herokuapp.com/t/nbve6OV0Ho
+
 
 ## AppsFlyer link that redirect to download app
 ### Production
