@@ -6,6 +6,7 @@ https://snack-web-app-mustache-staging.herokuapp.com/t/nbve6OV0Ho
 https://web.snackv.com/t/nbve6OV0Ho
 
 ## Training after install
+### iOS
 Staging:
 
 https://app.appsflyer.com/id1320646142?pid=snack_web_app&c=training&af_sub1=training&af_sub2=nbve6OV0Ho&af_r=https://www.snackv.com
@@ -14,7 +15,14 @@ Prod:
 
 https://app.appsflyer.com/id1320646141?pid=snack_web_app&c=training&af_sub1=training&af_sub2=nbve6OV0Ho
 
+### Android
+Staging:
 
+https://app.appsflyer.com/com.snackv.snack.android.staging?pid=snack_web_app&c=training&af_sub1=training&af_sub2=nbve6OV0Ho&af_r=https://www.snackv.com
+
+Prod:
+
+https://app.appsflyer.com/com.snackv.snack.android?pid=snack_web_app&c=training&af_sub1=training&af_sub2=nbve6OV0Ho
 
 ## Old v. link
 http://v.snackv.com/SpcFAx3lh6
