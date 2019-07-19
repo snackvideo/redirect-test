@@ -1,5 +1,9 @@
 # redirect-test
 
+## Training Rosewood link test
+
+https://snack-web-app-mustache-staging.herokuapp.com/t/eAMSe2P8m6
+
 ## Training
 https://snack-web-app-mustache-staging.herokuapp.com/t/nbve6OV0Ho
 
