@@ -35,13 +35,13 @@ http://v.snackv.com/SpcFAx3lh6
 Video, User, Search, Category
 
 ### Production
-https://web.snackv.com/v/SpcFAx3lh6
+https://web.snackv.com/v/Zyvj8aovAB
 
-https://web.snackv.com/u/HrMLVGKkTe
+https://web.snackv.com/u/vbhRqr7aun
 
-https://web.snackv.com/s/food
+https://web.snackv.com/s/brain
 
-https://web.snackv.com/c/Auto
+https://web.snackv.com/c/sales
 
 https://web.snackv.com/c/fakecategory
 
@@ -54,13 +54,13 @@ https://web.snackv.com/r/OALTqzULwV
 https://web.snackv.com/pl/kwC3leUgqk
 
 ### Staging
-https://snack-web-app-mustache-staging.herokuapp.com/v/SpcFAx3lh6
+https://snack-web-app-mustache-staging.herokuapp.com/v/Zyvj8aovAB
 
-https://snack-web-app-mustache-staging.herokuapp.com/u/HrMLVGKkTe
+https://snack-web-app-mustache-staging.herokuapp.com/u/vbhRqr7aun
 
-https://snack-web-app-mustache-staging.herokuapp.com/s/food
+https://snack-web-app-mustache-staging.herokuapp.com/s/brain
 
-https://snack-web-app-mustache-staging.herokuapp.com/c/auto
+https://snack-web-app-mustache-staging.herokuapp.com/c/sales
 
 https://snack-web-app-mustache-staging.herokuapp.com/r/OALTqzULwV
 
