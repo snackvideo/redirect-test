@@ -1,5 +1,9 @@
 # redirect-test
 
+## Wrong link should not crash
+https://snack-web-app-mustache-staging.herokuapp.com/eAMSe2P8m6
+https://web.snackv.com/nbve6OV0Ho
+
 ## Training Rosewood link test
 
 https://snack-web-app-mustache-staging.herokuapp.com/t/eAMSe2P8m6
