@@ -7,7 +7,7 @@ https://web.snackv.com/nbve6OV0Ho
 
 ## App Sheet link test
 
-https://web.snackv.com.com/t/5g9asKV4i4
+https://web.snackv.com/t/5g9asKV4i4
 
 https://snack-web-app-mustache-staging.herokuapp.com/t/5g9asKV4i4
 
