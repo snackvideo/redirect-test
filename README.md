@@ -60,7 +60,14 @@ https://web.snackv.com/r/OALTqzULwV
 https://web.snackv.com/pl/kwC3leUgqk
 
 ### Staging
+
+Broken video
+
 https://snack-web-app-mustache-staging.herokuapp.com/v/Zyvj8aovAB
+
+Working video
+
+https://snack-web-app-mustache-staging.herokuapp.com/v/1CDC4dRsUU
 
 https://snack-web-app-mustache-staging.herokuapp.com/u/vbhRqr7aun
 https://snack-web-app-mustache-staging.herokuapp.com/u/qDEeEQOaQV
