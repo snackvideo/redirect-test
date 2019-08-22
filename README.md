@@ -1,5 +1,8 @@
 # redirect-test
 
+## Youtube video
+https://snack-web-app-mustache-staging.herokuapp.com/v/1CDC4dRsUU
+
 ## Wrong link should not crash
 https://snack-web-app-mustache-staging.herokuapp.com/eAMSe2P8m6
 
