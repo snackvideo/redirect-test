@@ -1,5 +1,9 @@
 # redirect-test
 
+## Training new user link
+https://snack-web-app-mustache-staging.herokuapp.com/training/new-user/HZNh12s7kJ
+https://web.snackv.com/training/new-user/HZNh12s7kJ
+
 ## Youtube video
 https://snack-web-app-mustache-staging.herokuapp.com/v/sjYTCvftcl
 
